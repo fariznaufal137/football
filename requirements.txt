@@ -3,5 +3,3 @@ seaborn
 pandas
 matplotlib
 numpy
-lxml
-subprocess
