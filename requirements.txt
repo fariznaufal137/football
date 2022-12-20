@@ -1,5 +1,8 @@
 streamlit
 seaborn==0.12.1
-numpy==1.23.2
 pandas==1.4.4
 matplotlib==3.6.0
+nbdt==0.0.4
+numpy
+torch==1.8.1
+torchvision==0.9.1
