@@ -1,4 +1,4 @@
-stramlit
+streamlit
 seaborn==0.12.1
 numpy==1.23.2
 pandas==1.4.4
