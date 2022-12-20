@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit.components.v1 as stc
 import pandas as pd
 import base64
 import matplotlib.pyplot as plt
